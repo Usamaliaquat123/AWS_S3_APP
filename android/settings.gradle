@@ -1,0 +1,3 @@
+rootProject.name = 'awsApp'
+
+include ':app'
